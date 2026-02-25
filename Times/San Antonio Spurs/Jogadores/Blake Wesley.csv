@@ -1,0 +1,63 @@
+Rk,G,Date,Age,Tm,,Opp,,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
+1,1,2024-10-24,21-222,SAS,@,DAL,L (-11),0,8:52,2,3,.667,0,0,,2,2,1.000,0,0,0,2,0,0,0,0,6,6.1,+13
+2,2,2024-10-26,21-224,SAS,,HOU,W (+3),0,6:03,1,3,.333,0,0,,0,0,,0,1,1,2,0,0,0,1,2,1.6,0
+3,3,2024-10-28,21-226,SAS,,HOU,L (-5),0,12:12,2,6,.333,1,3,.333,1,2,.500,2,0,2,2,0,0,1,0,6,4.0,-1
+4,4,2024-10-30,21-228,SAS,@,OKC,L (-12),0,12:57,2,5,.400,0,2,.000,1,2,.500,0,1,1,0,0,0,2,0,5,0.2,+3
+5,5,2024-10-31,21-229,SAS,@,UTA,W (+18),0,5:27,0,2,.000,0,2,.000,0,0,,0,0,0,0,0,0,2,1,0,-3.8,-14
+6,6,2024-11-02,21-231,SAS,,MIN,W (+10),0,1:19,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-5
+7,,2024-11-04,21-233,SAS,@,LAC,L (-9),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+8,7,2024-11-06,21-235,SAS,@,HOU,L (-27),0,15:52,2,8,.250,1,2,.500,0,0,,0,0,0,2,1,0,1,2,5,0.8,-10
+9,8,2024-11-07,21-236,SAS,,POR,W (+13),0,21:13,4,4,1.000,0,0,,2,2,1.000,0,1,1,8,2,0,2,2,10,13.9,0
+10,9,2024-11-09,21-238,SAS,,UTA,L (-1),0,18:58,2,4,.500,0,0,,1,1,1.000,0,0,0,2,1,0,2,1,5,3.0,-4
+11,10,2024-11-11,21-240,SAS,,SAC,W (+20),0,11:07,0,0,,0,0,,0,0,,0,1,1,0,0,0,2,0,0,-1.7,-4
+12,11,2024-11-13,21-242,SAS,,WAS,W (+9),0,12:33,5,5,1.000,0,0,,0,0,,0,1,1,2,1,0,1,1,10,9.8,+9
+13,12,2024-11-15,21-244,SAS,,LAL,L (-5),0,8:27,0,4,.000,0,2,.000,0,0,,0,0,0,1,0,1,0,1,0,-1.8,-16
+14,13,2024-11-16,21-245,SAS,@,DAL,L (-17),0,18:29,2,5,.400,0,2,.000,2,2,1.000,1,0,1,1,0,0,1,0,6,3.7,+4
+15,,2024-11-19,21-248,SAS,,OKC,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+16,14,2024-11-21,21-250,SAS,,UTA,W (+8),0,4:19,0,3,.000,0,2,.000,1,2,.500,0,2,2,0,0,0,0,0,1,-0.9,-5
+17,15,2024-11-23,21-252,SAS,,GSW,W (+10),0,13:37,3,5,.600,1,2,.500,0,0,,1,1,2,1,1,0,1,1,7,6.0,+8
+18,16,2024-11-26,21-255,SAS,@,UTA,W (+13),0,21:45,4,5,.800,1,2,.500,2,4,.500,1,2,3,4,2,0,2,0,11,12.4,+34
+19,17,2024-11-27,21-256,SAS,,LAL,L (-18),0,6:29,0,3,.000,0,1,.000,0,0,,0,0,0,0,0,0,1,0,0,-3.1,-2
+20,,2024-12-01,21-260,SAS,@,SAC,W (+2),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+21,,2024-12-03,21-262,SAS,@,PHO,L (-11),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+22,18,2024-12-05,21-264,SAS,,CHI,L (-15),0,8:23,0,0,,0,0,,1,2,.500,0,0,0,0,0,0,1,1,1,-0.8,-11
+23,19,2024-12-06,21-265,SAS,,SAC,L (-27),0,4:12,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-0.3,-6
+24,,2024-12-08,21-267,SAS,,NOP,W (+5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+25,20,2024-12-13,21-272,SAS,@,POR,W (+2),0,25:22,3,5,.600,0,0,,2,2,1.000,1,1,2,8,1,1,1,1,8,12.6,+19
+26,21,2024-12-15,21-274,SAS,,MIN,L (-14),0,9:28,2,3,.667,0,0,,0,0,,0,2,2,5,0,0,1,1,4,5.4,+5
+27,,2024-12-19,21-278,SAS,,ATL,W (+7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+28,22,2024-12-21,21-280,SAS,,POR,W (+20),0,3:21,0,1,.000,0,0,,0,0,,0,0,0,1,0,0,0,1,0,-0.4,-6
+29,,2024-12-23,21-282,SAS,@,PHI,L (-5),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+30,,2024-12-25,21-284,SAS,@,NYK,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+31,,2024-12-27,21-286,SAS,@,BRK,W (+9),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+32,,2024-12-29,21-288,SAS,@,MIN,L (-2),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+33,23,2024-12-31,21-290,SAS,,LAC,W (+36),0,8:33,1,1,1.000,0,0,,0,0,,0,0,0,4,0,1,0,0,2,5.2,+4
+34,,2025-01-03,21-293,SAS,@,DEN,W (+3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+35,,2025-01-04,21-294,SAS,,DEN,L (-11),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+36,,2025-01-06,21-296,SAS,@,CHI,L (-4),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+37,24,2025-01-08,21-298,SAS,@,MIL,L (-16),0,2:48,0,0,,0,0,,0,0,,0,2,2,0,0,0,1,0,0,-0.4,+4
+38,25,2025-01-13,21-303,SAS,@,LAL,W (+24),0,2:06,0,1,.000,0,1,.000,0,0,,0,1,1,1,0,0,0,0,0,0.3,+5
+39,,2025-01-15,21-305,SAS,,MEM,L (-14),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+40,26,2025-01-17,21-307,SAS,,MEM,L (-28),0,3:40,0,1,.000,0,0,,0,0,,0,0,0,2,0,0,0,0,0,0.7,-5
+41,27,2025-01-19,21-309,SAS,@,MIA,L (-21),0,2:21,1,1,1.000,0,0,,0,0,,0,1,1,2,0,0,2,0,2,1.4,+2
+42,28,2025-01-23,21-313,SAS,@,IND,W (+30),0,4:31,0,1,.000,0,0,,0,0,,0,0,0,3,1,0,0,0,0,2.4,+2
+43,29,2025-01-25,21-315,SAS,,IND,L (-38),0,3:17,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1.0,-8
+44,,2025-01-29,21-319,SAS,,LAC,L (-12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+45,30,2025-01-31,21-321,SAS,,MIL,W (+26),0,3:46,1,1,1.000,0,0,,0,0,,0,0,0,3,4,0,1,0,2,6.8,+7
+46,,2025-02-01,21-322,SAS,,MIA,L (-2),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+47,31,2025-02-03,21-324,SAS,@,MEM,L (-19),0,5:53,1,1,1.000,0,0,,2,2,1.000,0,0,0,3,0,0,1,2,4,4.0,-7
+48,,2025-02-05,21-326,SAS,@,ATL,W (+1),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+49,,2025-02-07,21-328,SAS,@,CHO,L (-1),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+50,,2025-02-08,21-329,SAS,@,ORL,L (-1),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+51,,2025-02-10,21-331,SAS,@,WAS,W (+10),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+52,32,2025-02-12,21-333,SAS,@,BOS,L (-13),0,0:25,0,1,.000,0,1,.000,0,0,,0,0,0,0,0,0,0,0,0,-0.7,0
+53,,2025-02-20,21-341,SAS,,PHO,W (+11),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+54,33,2025-02-21,21-342,SAS,,DET,L (-15),0,3:21,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+5
+55,34,2025-02-23,21-344,SAS,@,NOP,L (-18),0,1:31,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,0.7,+1
+56,,2025-02-25,21-346,SAS,@,NOP,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+57,35,2025-02-26,21-347,SAS,@,HOU,L (-12),0,11:20,2,4,.500,0,1,.000,1,4,.250,0,1,1,5,0,0,0,1,5,5.2,+11
+58,,2025-03-01,21-350,SAS,@,MEM,W (+2),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+59,36,2025-03-02,21-351,SAS,,OKC,L (-14),0,2:20,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,+5
+60,37,2025-03-04,21-353,SAS,,BRK,W (+14),0,1:34,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,-3
+61,38,2025-03-07,21-356,SAS,@,SAC,L (-18),0,2:13,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,2,2.4,0
+62,39,2025-03-09,21-358,SAS,@,MIN,L (-17),0,8:37,1,2,.500,0,1,.000,0,0,,0,1,1,3,1,0,2,2,2,1.6,+8

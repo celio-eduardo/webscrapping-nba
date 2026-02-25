@@ -1,0 +1,40 @@
+Rk,G,Date,Age,Tm,,Opp,,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GmSc,BPM
+1,,2024-12-12,24-150,TOR,@,MIA,L (-10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+2,,2024-12-16,24-154,TOR,,CHI,L (-1),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+3,,2024-12-19,24-157,TOR,,BRK,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+4,,2024-12-22,24-160,TOR,,HOU,L (-4),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+5,1,2024-12-23,24-161,TOR,@,NYK,L (-14),0,4:09,1.500,1.500,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.7,300,139,2.7,15.1
+6,2,2024-12-26,24-164,TOR,@,MEM,L (-29),0,5:27,.773,.833,0.0,34.5,17.1,0.0,0.0,0.0,0.0,26.1,142,129,4.9,9.6
+7,,2024-12-29,24-167,TOR,,ATL,L (-29),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+8,3,2024-12-31,24-169,TOR,@,BOS,L (-54),0,4:00,.000,.000,23.1,0.0,12.9,0.0,0.0,0.0,0.0,32.2,14,141,-1.4,-27.8
+9,,2025-01-01,24-170,TOR,,BRK,W (+17),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+10,,2025-01-03,24-172,TOR,,ORL,L (-9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+11,,2025-01-06,24-175,TOR,,MIL,L (-24),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+12,,2025-01-08,24-177,TOR,@,NYK,L (-14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+13,,2025-01-09,24-178,TOR,@,CLE,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+14,,2025-01-11,24-180,TOR,@,DET,L (-9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+15,,2025-01-13,24-182,TOR,,GSW,W (+3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+16,,2025-01-15,24-184,TOR,,BOS,W (+13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+17,,2025-01-17,24-186,TOR,@,MIL,L (-18),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+18,4,2025-01-21,24-190,TOR,,ORL,W (+16),0,1:26,.694,1.000,0.0,0.0,0.0,0.0,0.0,0.0,0.0,49.6,109,112,1.3,2.9
+19,,2025-01-23,24-192,TOR,@,ATL,W (+3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+20,,2025-01-25,24-194,TOR,@,ATL,W (+23),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+21,,2025-01-27,24-196,TOR,,NOP,W (+9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+22,,2025-01-29,24-198,TOR,@,WAS,W (+24),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+23,,2025-01-31,24-200,TOR,,CHI,L (-16),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+24,,2025-02-02,24-202,TOR,,LAC,W (+7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,2025-02-04,24-204,TOR,,NYK,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+26,,2025-02-05,24-205,TOR,,MEM,L (-31),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+27,,2025-02-07,24-207,TOR,@,OKC,L (-12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+28,,2025-02-09,24-209,TOR,@,HOU,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+29,,2025-02-11,24-211,TOR,@,PHI,W (+3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+30,,2025-02-12,24-212,TOR,,CLE,L (-23),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+31,,2025-02-21,24-221,TOR,,MIA,L (-9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+32,5,2025-02-23,24-223,TOR,,PHO,W (+18),0,1:13,,,0.0,100.0,45.9,0.0,0.0,0.0,,0.0,0,105,0.3,0.5
+33,,2025-02-25,24-225,TOR,,BOS,L (-10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+34,,2025-02-26,24-226,TOR,@,IND,L (-20),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+35,,2025-02-28,24-228,TOR,@,CHI,L (-10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+36,6,2025-03-02,24-230,TOR,@,ORL,W (+2),0,14:16,.000,.000,0.0,0.0,0.0,0.0,0.0,0.0,33.3,9.3,0,120,-3.2,-18.0
+37,7,2025-03-04,24-232,TOR,@,ORL,W (+1),0,26:21,1.083,1.083,0.0,8.7,4.4,6.3,0.0,7.8,0.0,9.5,207,116,12.3,9.4
+38,8,2025-03-07,24-235,TOR,,UTA,W (+9),1,26:35,.216,.192,6.1,4.0,5.2,5.0,1.8,0.0,0.0,19.8,69,112,-0.5,-17.3
+39,9,2025-03-08,24-236,TOR,,WAS,L (-1),1,32:03,.295,.227,6.0,3.1,4.5,8.1,1.5,0.0,0.0,14.4,100,128,3.0,-12.2

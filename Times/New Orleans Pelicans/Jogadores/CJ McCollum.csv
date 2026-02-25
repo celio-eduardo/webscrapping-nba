@@ -1,0 +1,66 @@
+Rk,G,Date,Age,Tm,,Opp,,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GmSc,BPM
+1,1,2024-10-23,33-034,NOP,,CHI,W (+12),1,29:57,.605,.605,0.0,7.3,3.6,26.2,1.5,3.1,0.0,25.8,124,108,18.7,6.1
+2,2,2024-10-25,33-036,NOP,@,POR,W (+2),1,39:52,.588,.588,0.0,5.6,2.6,13.7,4.7,2.3,5.6,19.1,113,99,16.9,3.9
+3,3,2024-10-27,33-038,NOP,@,POR,L (-22),1,35:51,.571,.548,0.0,11.6,6.0,16.3,5.6,0.0,11.3,30.9,110,122,19.0,3.2
+4,4,2024-10-29,33-040,NOP,@,GSW,L (-18),1,31:12,.313,.313,4.8,16.7,11.8,20.8,0.0,6.0,33.3,17.0,71,127,2.9,-9.6
+5,,2024-10-30,33-041,NOP,@,GSW,L (-15),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+6,,2024-11-01,33-043,NOP,,IND,W (+7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+7,,2024-11-03,33-045,NOP,,ATL,L (-15),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+8,,2024-11-04,33-046,NOP,,POR,L (-18),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+9,,2024-11-06,33-048,NOP,,CLE,L (-9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+10,,2024-11-08,33-050,NOP,@,ORL,L (-27),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+11,,2024-11-11,33-053,NOP,,BRK,L (-2),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+12,,2024-11-13,33-055,NOP,@,OKC,L (-18),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+13,,2024-11-15,33-057,NOP,,DEN,W (+7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+14,,2024-11-16,33-058,NOP,,LAL,L (-5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+15,,2024-11-19,33-061,NOP,@,DAL,L (-41),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+16,,2024-11-20,33-062,NOP,@,CLE,L (-28),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+17,,2024-11-22,33-064,NOP,,GSW,L (-4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+18,5,2024-11-25,33-067,NOP,@,IND,L (-4),1,30:30,.551,.525,0.0,14.6,7.4,5.1,0.0,0.0,8.7,32.6,96,116,11.7,-6.0
+19,6,2024-11-27,33-069,NOP,,TOR,L (-26),1,29:54,.446,.450,3.2,6.6,4.9,25.9,0.0,0.0,8.6,32.0,89,124,8.7,-4.2
+20,7,2024-11-29,33-071,NOP,@,MEM,L (-11),1,35:33,.666,.658,5.3,5.9,5.6,11.7,1.3,0.0,4.3,26.6,137,122,22.1,7.3
+21,8,2024-12-01,33-073,NOP,@,NYK,L (-33),1,25:12,.395,.375,3.2,8.9,5.6,24.2,1.9,0.0,0.0,27.1,91,126,7.8,-3.3
+22,9,2024-12-02,33-074,NOP,@,ATL,L (-12),1,34:37,.522,.519,5.0,15.0,9.0,10.1,1.3,0.0,3.5,32.3,111,121,17.2,-0.8
+23,10,2024-12-05,33-077,NOP,,PHO,W (+2),1,37:19,.606,.583,0.0,9.2,4.3,21.8,2.5,0.0,0.0,22.3,138,123,20.7,3.6
+24,11,2024-12-07,33-079,NOP,,OKC,L (-10),1,37:43,.277,.263,5.9,10.3,8.0,32.2,2.5,4.8,9.1,25.6,79,118,7.4,-7.8
+25,12,2024-12-08,33-080,NOP,@,SAS,L (-5),1,34:13,.528,.528,0.0,12.2,5.7,22.1,0.0,0.0,10.0,24.1,104,127,11.5,-4.7
+26,13,2024-12-12,33-084,NOP,,SAC,L (-2),1,36:58,.723,.708,0.0,7.8,4.2,18.7,0.0,0.0,7.4,32.1,133,123,25.0,9.0
+27,14,2024-12-15,33-087,NOP,@,IND,L (-15),1,30:55,.397,.361,5.6,4.2,5.1,10.8,1.5,0.0,13.7,27.1,85,123,3.5,-11.1
+28,15,2024-12-19,33-091,NOP,@,HOU,L (-20),1,33:54,.458,.382,0.0,22.1,9.0,26.1,1.4,0.0,13.3,27.9,95,133,10.6,-6.5
+29,16,2024-12-21,33-093,NOP,,NYK,L (-11),1,32:21,.440,.385,6.9,10.1,8.5,22.3,1.6,3.0,11.9,22.5,102,116,9.9,-1.7
+30,17,2024-12-22,33-094,NOP,,DEN,L (-3),1,38:31,.508,.476,0.0,17.2,8.5,31.8,1.2,2.2,7.8,26.5,106,114,18.7,1.0
+31,18,2024-12-26,33-098,NOP,,HOU,L (-17),1,26:51,.505,.500,3.4,4.0,3.6,15.7,0.0,0.0,7.2,20.2,109,136,7.5,-7.3
+32,19,2024-12-27,33-099,NOP,,MEM,L (-8),1,34:31,.661,.614,3.1,13.2,8.0,21.1,1.3,2.9,4.0,27.9,135,125,24.8,4.9
+33,20,2024-12-30,33-102,NOP,,LAC,L (-3),1,39:06,.638,.640,0.0,5.7,3.3,18.0,1.3,0.0,13.4,35.2,108,126,19.5,-1.0
+34,21,2025-01-01,33-104,NOP,@,MIA,L (-11),1,34:19,.604,.594,3.7,13.5,8.1,25.5,0.0,2.9,5.2,26.7,122,126,18.0,1.0
+35,22,2025-01-03,33-106,NOP,,WAS,W (+12),1,30:40,.869,.852,3.3,8.2,5.5,15.8,0.0,0.0,3.4,41.0,160,127,39.2,21.4
+36,23,2025-01-05,33-108,NOP,@,WAS,W (+12),1,35:43,.662,.667,0.0,8.6,4.2,16.2,0.0,2.8,13.7,26.5,110,105,15.9,1.2
+37,24,2025-01-07,33-110,NOP,,MIN,L (-7),1,30:03,.163,.107,0.0,7.3,3.2,9.6,0.0,3.5,0.0,20.6,46,111,-3.3,-15.8
+38,25,2025-01-08,33-111,NOP,,POR,L (-19),1,27:06,.676,.676,0.0,9.3,4.2,15.9,0.0,0.0,10.5,29.6,129,136,13.9,1.1
+39,26,2025-01-10,33-113,NOP,@,PHI,W (+8),1,34:48,.659,.667,6.4,3.2,4.8,15.9,0.0,0.0,3.4,36.0,133,129,27.2,6.6
+40,27,2025-01-12,33-115,NOP,@,BOS,L (-1),1,37:55,.398,.367,2.9,7.0,5.2,18.8,0.0,2.2,5.8,20.4,94,125,7.3,-8.5
+41,28,2025-01-14,33-117,NOP,@,CHI,W (+6),1,29:26,.308,.308,6.3,6.4,6.3,22.0,1.6,0.0,0.0,18.1,93,118,5.4,-8.7
+42,29,2025-01-15,33-118,NOP,,DAL,W (+3),1,33:30,.370,.321,0.0,0.0,0.0,7.7,1.4,5.2,11.8,20.6,78,115,4.6,-10.4
+43,30,2025-01-17,33-120,NOP,,UTA,W (+13),1,29:55,.714,.688,3.0,15.3,8.4,18.8,1.5,0.0,9.9,25.6,142,120,20.1,4.8
+44,31,2025-01-20,33-123,NOP,,UTA,W (+4),1,43:40,.687,.661,0.0,16.7,9.0,25.3,0.0,6.1,5.8,35.5,124,110,34.6,8.4
+45,32,2025-01-24,33-127,NOP,@,MEM,L (-13),1,33:59,.694,.682,0.0,3.3,1.8,15.5,0.0,2.4,11.2,22.9,130,145,15.7,-2.7
+46,33,2025-01-25,33-128,NOP,@,CHO,L (-31),1,22:46,.324,.269,4.4,5.4,4.8,24.6,0.0,0.0,12.6,30.9,70,133,1.4,-14.9
+47,34,2025-01-27,33-130,NOP,@,TOR,L (-9),1,36:28,.483,.476,0.0,17.4,9.2,9.7,2.5,0.0,8.1,28.3,89,106,12.8,-3.3
+48,35,2025-01-29,33-132,NOP,,DAL,L (-1),1,35:50,.526,.500,3.0,6.4,4.6,27.5,1.3,0.0,4.4,27.0,120,139,18.0,-3.7
+49,36,2025-01-31,33-134,NOP,,BOS,L (-2),1,33:54,.437,.447,0.0,6.6,3.4,4.3,1.4,0.0,9.3,25.6,87,116,6.0,-7.8
+50,37,2025-02-03,33-137,NOP,@,DEN,L (-12),1,34:52,.620,.568,0.0,20.1,9.5,28.4,0.0,2.3,11.0,34.8,120,137,20.0,2.6
+51,38,2025-02-05,33-139,NOP,@,DEN,L (-25),1,27:36,.603,.536,3.6,0.0,2.0,16.0,1.7,0.0,16.0,28.3,108,144,12.4,-2.4
+52,39,2025-02-08,33-142,NOP,@,SAC,L (-5),1,33:23,.716,.684,0.0,19.2,9.6,15.1,1.3,5.8,12.2,30.3,120,112,23.8,8.9
+53,,2025-02-10,33-144,NOP,@,OKC,L (-36),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+54,40,2025-02-12,33-146,NOP,,SAC,L (-8),1,30:38,.412,.412,3.3,7.8,5.3,14.2,0.0,0.0,10.5,26.8,84,131,5.1,-12.8
+55,41,2025-02-13,33-147,NOP,,SAC,W (+7),1,41:10,.778,.780,5.9,10.9,8.7,10.1,0.0,0.0,6.7,32.6,138,128,33.0,5.7
+56,42,2025-02-21,33-155,NOP,@,DAL,L (-8),1,30:18,.450,.438,0.0,20.2,9.5,27.8,1.6,3.8,10.1,26.8,93,108,9.8,-1.2
+57,43,2025-02-23,33-157,NOP,,SAS,W (+18),1,29:01,.505,.455,3.3,5.1,4.3,32.7,0.0,0.0,25.2,21.5,99,101,7.7,-1.0
+58,44,2025-02-25,33-159,NOP,,SAS,W (+6),1,29:23,.437,.393,3.1,10.4,6.6,24.9,1.6,0.0,11.8,22.2,102,105,8.5,-3.3
+59,45,2025-02-27,33-161,NOP,@,PHO,W (+8),1,34:29,.503,.472,5.2,5.8,5.5,6.9,0.0,0.0,0.0,22.8,120,128,11.8,-5.0
+60,,2025-02-28,33-162,NOP,@,PHO,L (-17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+61,46,2025-03-02,33-164,NOP,@,UTA,W (+7),1,32:35,.694,.694,3.3,6.7,5.0,30.8,0.0,2.8,14.3,26.1,130,121,19.4,3.6
+62,47,2025-03-04,33-166,NOP,@,LAL,L (-21),1,25:24,.437,.409,0.0,13.5,6.6,24.6,1.9,0.0,8.0,21.1,99,139,7.9,-7.2
+63,48,2025-03-06,33-168,NOP,,HOU,L (-12),1,33:46,.433,.433,0.0,8.1,3.5,11.9,0.0,0.0,11.8,21.5,88,121,4.5,-7.0
+64,49,2025-03-08,33-170,NOP,@,HOU,L (-29),1,27:48,.612,.615,6.8,12.6,9.4,9.2,1.7,0.0,12.6,22.8,118,145,12.6,-0.6
+65,,2025-03-09,33-171,NOP,,MEM,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress

@@ -1,0 +1,63 @@
+Rk,G,Date,Age,Tm,,Opp,,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
+1,1,2024-10-23,35-039,MIA,,ORL,L (-19),1,25:49,1,8,.125,0,2,.000,1,2,.500,1,3,4,5,1,1,1,1,3,2.8,-30
+2,2,2024-10-26,35-042,MIA,@,CHO,W (+8),1,36:54,7,15,.467,1,3,.333,11,17,.647,4,4,8,8,2,1,1,2,26,26.4,-4
+3,3,2024-10-28,35-044,MIA,,DET,W (+8),1,33:44,7,11,.636,0,1,.000,9,11,.818,3,1,4,7,4,0,0,2,23,27.8,+8
+4,4,2024-10-30,35-046,MIA,,NYK,L (-9),1,37:24,6,9,.667,0,2,.000,3,4,.750,2,2,4,4,2,0,4,3,15,12.3,-10
+5,5,2024-11-02,35-049,MIA,@,WAS,W (+20),1,30:41,6,13,.462,0,0,,6,8,.750,6,2,8,4,0,0,4,2,18,13.3,+4
+6,6,2024-11-04,35-051,MIA,,SAC,L (-1),1,35:54,9,19,.474,1,2,.500,8,11,.727,1,1,2,6,2,0,1,1,27,21.9,+11
+7,7,2024-11-06,35-053,MIA,@,PHO,L (-3),1,36:55,6,13,.462,0,2,.000,3,3,1.000,3,4,7,3,1,0,2,1,15,12.3,-3
+8,8,2024-11-08,35-055,MIA,@,DEN,L (-13),1,6:44,1,2,.500,0,1,.000,0,0,,1,0,1,2,0,0,1,0,2,2.1,-10
+9,,2024-11-10,35-057,MIA,@,MIN,W (+1),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+10,,2024-11-12,35-059,MIA,@,DET,L (-2),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+11,,2024-11-15,35-062,MIA,@,IND,W (+13),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+12,,2024-11-17,35-064,MIA,@,IND,L (-9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+13,9,2024-11-18,35-065,MIA,,PHI,W (+17),1,33:40,8,12,.667,1,1,1.000,13,13,1.000,5,5,10,5,1,0,0,2,30,33.5,+29
+14,10,2024-11-24,35-071,MIA,,DAL,W (+5),1,38:05,11,17,.647,0,0,,11,16,.688,3,6,9,6,1,2,3,1,33,30.6,+4
+15,11,2024-11-26,35-073,MIA,,MIL,L (-3),1,36:58,6,12,.500,0,1,.000,11,13,.846,2,2,4,5,0,0,1,1,23,20.3,-1
+16,12,2024-11-27,35-074,MIA,@,CHO,W (+4),1,25:01,2,2,1.000,2,2,1.000,0,0,,0,4,4,3,0,0,2,0,6,6.7,+14
+17,13,2024-11-29,35-076,MIA,,TOR,W (+10),1,34:15,8,14,.571,2,4,.500,8,9,.889,0,2,2,6,2,0,0,1,26,25.4,+13
+18,14,2024-12-01,35-078,MIA,@,TOR,L (-3),1,34:25,6,9,.667,0,0,,5,6,.833,2,3,5,3,1,0,0,1,17,17.7,-9
+19,,2024-12-02,35-079,MIA,@,BOS,L (-19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+20,15,2024-12-04,35-081,MIA,,LAL,W (+41),1,29:21,8,12,.667,1,1,1.000,0,1,.000,5,4,9,5,2,1,1,1,17,20.9,+26
+21,16,2024-12-07,35-084,MIA,,PHO,W (+10),1,34:28,9,12,.750,1,1,1.000,5,5,1.000,2,5,7,4,0,1,1,1,24,24.2,+11
+22,17,2024-12-08,35-085,MIA,,CLE,W (+9),1,35:16,6,12,.500,0,2,.000,6,8,.750,1,2,3,5,2,0,1,0,18,17.0,+10
+23,18,2024-12-12,35-089,MIA,,TOR,W (+10),1,29:26,3,8,.375,0,0,,5,8,.625,3,2,5,4,0,1,3,0,11,8.6,+16
+24,19,2024-12-16,35-093,MIA,@,DET,L (-1),1,44:20,12,21,.571,1,3,.333,10,12,.833,7,12,19,10,4,1,0,0,35,44.5,+11
+25,20,2024-12-20,35-097,MIA,,OKC,L (-7),1,7:19,0,0,,0,0,,0,0,,0,0,0,2,0,0,0,0,0,1.4,-3
+26,,2024-12-21,35-098,MIA,@,ORL,L (-7),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team
+27,,2024-12-23,35-100,MIA,,BRK,W (+15),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team
+28,,2024-12-26,35-103,MIA,@,ORL,W (+1),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+29,,2024-12-28,35-105,MIA,@,ATL,L (-10),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+30,,2024-12-29,35-106,MIA,@,HOU,W (+4),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+31,21,2025-01-01,35-109,MIA,,NOP,W (+11),1,24:44,3,5,.600,1,2,.500,2,2,1.000,0,4,4,2,0,0,0,1,9,8.9,+9
+32,22,2025-01-02,35-110,MIA,,IND,L (-13),1,26:31,3,6,.500,1,2,.500,2,2,1.000,0,2,2,4,2,0,1,0,9,10.4,-27
+33,,2025-01-04,35-112,MIA,,UTA,L (-36),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team
+34,,2025-01-06,35-114,MIA,@,SAC,L (-5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team
+35,,2025-01-07,35-115,MIA,@,GSW,W (+16),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team
+36,,2025-01-09,35-117,MIA,@,UTA,W (+5),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team
+37,,2025-01-11,35-119,MIA,@,POR,W (+21),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team
+38,,2025-01-13,35-121,MIA,@,LAC,L (-11),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team
+39,,2025-01-15,35-123,MIA,@,LAL,L (-9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team
+40,23,2025-01-17,35-125,MIA,,DEN,L (-20),1,33:15,7,15,.467,0,2,.000,4,4,1.000,2,1,3,2,0,0,1,0,18,12.4,-11
+41,24,2025-01-19,35-127,MIA,,SAS,W (+21),1,27:47,3,7,.429,0,1,.000,2,2,1.000,0,3,3,7,0,2,0,2,8,10.7,+19
+42,25,2025-01-21,35-129,MIA,,POR,L (-9),1,26:56,4,9,.444,1,1,1.000,4,4,1.000,2,2,4,8,0,0,2,0,13,13.9,-19
+43,,2025-01-23,35-131,MIA,@,MIL,L (-29),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+44,,2025-01-25,35-133,MIA,@,BRK,W (+9),Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team,Not With Team
+45,,2025-01-27,35-135,MIA,,ORL,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+46,,2025-01-29,35-137,MIA,,CLE,L (-20),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+47,,2025-02-01,35-140,MIA,@,SAS,W (+2),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+48,,2025-02-04,35-143,MIA,@,CHI,L (-9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+49,,2025-02-05,35-144,MIA,@,PHI,W (+7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+50,26,2025-02-08,35-147,GSW,@,CHI,W (+21),1,28:40,7,12,.583,0,1,.000,11,13,.846,1,1,2,4,1,1,1,1,25,22.7,+16
+51,27,2025-02-10,35-149,GSW,@,MIL,W (+14),1,31:23,4,12,.333,0,2,.000,12,15,.800,6,3,9,6,4,0,1,4,20,22.7,0
+52,28,2025-02-12,35-151,GSW,@,DAL,L (-4),1,35:06,8,17,.471,0,0,,5,6,.833,6,3,9,7,0,1,3,3,21,18.4,-17
+53,29,2025-02-13,35-152,GSW,@,HOU,W (+7),1,34:31,6,15,.400,1,4,.250,6,6,1.000,4,4,8,4,0,0,0,0,19,17.7,+10
+54,30,2025-02-21,35-160,GSW,@,SAC,W (+24),1,31:33,5,10,.500,0,1,.000,7,7,1.000,2,1,3,7,3,0,0,0,17,21.6,+19
+55,31,2025-02-23,35-162,GSW,,DAL,W (+24),1,28:18,5,9,.556,0,2,.000,8,8,1.000,1,2,3,5,1,0,1,1,18,18.1,+27
+56,32,2025-02-25,35-164,GSW,,CHO,W (+36),1,18:53,3,8,.375,0,1,.000,0,1,.000,2,6,8,5,1,0,0,0,6,8.9,+17
+57,33,2025-02-27,35-166,GSW,@,ORL,W (+6),1,32:21,1,7,.143,0,3,.000,3,4,.750,2,2,4,7,0,1,2,1,5,5.3,-7
+58,,2025-03-01,35-168,GSW,@,PHI,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+59,34,2025-03-03,35-170,GSW,@,CHO,W (+18),1,32:00,3,7,.429,1,3,.333,6,6,1.000,1,2,3,4,1,0,3,1,13,11.0,+7
+60,35,2025-03-04,35-171,GSW,@,NYK,W (+12),1,34:52,6,12,.500,0,3,.000,7,9,.778,1,3,4,4,0,0,1,2,19,14.8,+1
+61,36,2025-03-06,35-173,GSW,@,BRK,W (+2),1,35:06,7,13,.538,1,1,1.000,10,10,1.000,1,1,2,6,3,0,1,0,25,25.9,+17
+62,37,2025-03-08,35-175,GSW,,DET,W (+5),1,36:34,9,17,.529,2,4,.500,6,7,.857,1,8,9,5,0,0,4,0,26,19.9,0

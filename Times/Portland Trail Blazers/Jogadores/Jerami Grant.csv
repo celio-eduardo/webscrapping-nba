@@ -1,0 +1,66 @@
+Rk,G,Date,Age,Tm,,Opp,,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
+1,1,2024-10-23,30-225,POR,,GSW,L (-36),1,33:10,6,18,.333,2,8,.250,2,2,1.000,0,2,2,3,1,1,0,2,16,9.4,-16
+2,2,2024-10-25,30-227,POR,,NOP,L (-2),1,40:13,11,23,.478,8,17,.471,4,4,1.000,0,6,6,1,1,3,5,3,34,21.7,-4
+3,3,2024-10-27,30-229,POR,,NOP,W (+22),1,28:37,9,17,.529,2,7,.286,8,12,.667,1,4,5,2,2,4,3,3,28,22.0,+7
+4,4,2024-10-28,30-230,POR,@,SAC,L (-13),1,29:26,3,12,.250,1,3,.333,0,0,,0,8,8,2,1,1,2,2,7,2.5,-19
+5,5,2024-10-30,30-232,POR,@,LAC,W (+1),1,33:43,3,14,.214,2,7,.286,0,0,,2,1,3,1,0,0,2,2,8,-1.0,-5
+6,6,2024-11-01,30-234,POR,,OKC,L (-23),1,28:17,5,11,.455,3,7,.429,4,5,.800,0,3,3,2,0,1,1,1,17,12.5,-22
+7,7,2024-11-02,30-235,POR,@,PHO,L (-6),1,39:06,8,23,.348,2,9,.222,2,2,1.000,0,7,7,2,1,1,1,2,20,10.5,+2
+8,8,2024-11-04,30-237,POR,@,NOP,W (+18),1,35:43,5,15,.333,2,7,.286,4,4,1.000,1,2,3,4,2,1,0,0,16,14.3,+18
+9,9,2024-11-07,30-240,POR,@,SAS,L (-13),1,36:56,6,10,.600,1,4,.250,8,11,.727,0,3,3,1,0,0,2,3,21,13.6,-16
+10,10,2024-11-08,30-241,POR,@,MIN,L (-25),1,26:56,4,10,.400,2,4,.500,2,3,.667,0,1,1,0,0,2,0,1,12,7.5,-25
+11,11,2024-11-10,30-243,POR,,MEM,L (-45),1,28:06,7,15,.467,2,8,.250,4,6,.667,0,1,1,1,1,0,0,2,20,12.7,-28
+12,12,2024-11-12,30-245,POR,,MIN,W (+14),1,38:36,5,15,.333,2,5,.400,9,10,.900,0,2,2,8,0,0,3,1,21,14.9,+15
+13,13,2024-11-13,30-246,POR,,MIN,W (+8),1,35:23,3,12,.250,2,4,.500,0,0,,0,3,3,2,1,1,1,2,8,3.0,-6
+14,14,2024-11-17,30-250,POR,,ATL,W (+4),1,27:55,4,10,.400,1,4,.250,0,0,,0,0,0,1,3,2,0,5,9,6.7,-7
+15,15,2024-11-20,30-253,POR,@,OKC,L (-10),1,38:36,3,10,.300,3,7,.429,5,5,1.000,2,4,6,1,2,0,3,2,14,9.7,-7
+16,16,2024-11-22,30-255,POR,@,HOU,L (-28),1,26:52,2,6,.333,1,4,.250,0,0,,0,3,3,5,0,1,1,1,5,5.3,-10
+17,17,2024-11-23,30-256,POR,@,HOU,W (+6),1,33:26,6,12,.500,4,7,.571,6,6,1.000,1,2,3,2,0,1,2,5,22,15.4,+5
+18,18,2024-11-25,30-258,POR,@,MEM,L (-25),1,20:52,3,10,.300,0,3,.000,5,7,.714,0,2,2,1,2,0,0,3,11,6.5,-8
+19,,2024-11-27,30-260,POR,@,IND,L (-7),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+20,,2024-11-29,30-262,POR,,SAC,W (+9),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+21,19,2024-12-01,30-264,POR,,DAL,L (-6),1,37:27,4,10,.400,2,3,.667,4,5,.800,0,5,5,6,1,0,1,3,14,12.7,-1
+22,20,2024-12-03,30-266,POR,@,LAC,L (-22),1,34:54,5,11,.455,2,5,.400,0,0,,2,2,4,4,2,2,2,2,12,11.7,-21
+23,21,2024-12-06,30-269,POR,,UTA,L (-42),1,28:30,6,11,.545,4,8,.500,3,3,1.000,0,3,3,1,0,3,1,4,19,14.8,-31
+24,22,2024-12-08,30-271,POR,@,LAL,L (-9),1,31:38,1,12,.083,1,7,.143,0,0,,1,3,4,1,1,0,1,2,3,-3.5,-18
+25,23,2024-12-13,30-276,POR,,SAS,L (-2),1,38:16,12,19,.632,8,10,.800,0,0,,1,3,4,2,1,0,3,4,32,22.9,-8
+26,24,2024-12-15,30-278,POR,@,PHO,L (-7),1,35:59,6,16,.375,4,11,.364,1,2,.500,0,6,6,3,2,0,0,2,17,12.9,+6
+27,25,2024-12-19,30-282,POR,,DEN,W (+2),1,36:04,4,14,.286,3,10,.300,2,2,1.000,2,3,5,4,1,1,2,2,13,8.8,-6
+28,26,2024-12-21,30-284,POR,@,SAS,L (-20),1,30:16,2,12,.167,1,6,.167,0,0,,0,0,0,2,0,1,2,1,5,-2.9,-26
+29,27,2024-12-23,30-286,POR,@,DAL,L (-24),1,20:01,1,7,.143,1,4,.250,0,0,,0,1,1,2,0,0,1,2,3,-1.6,-14
+30,28,2024-12-26,30-289,POR,,UTA,W (+2),1,31:20,3,5,.600,2,3,.667,6,7,.857,0,3,3,1,0,1,2,1,14,11.2,-9
+31,29,2024-12-28,30-291,POR,,DAL,W (+4),1,41:43,4,9,.444,3,4,.750,3,4,.750,2,6,8,3,0,2,0,3,14,14.4,+11
+32,,2024-12-30,30-293,POR,,PHI,L (-22),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+33,,2025-01-02,30-296,POR,@,LAL,L (-8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+34,,2025-01-04,30-298,POR,@,MIL,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+35,,2025-01-06,30-300,POR,@,DET,L (-3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+36,,2025-01-08,30-302,POR,@,NOP,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+37,,2025-01-09,30-303,POR,@,DAL,L (-6),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+38,,2025-01-11,30-305,POR,,MIA,L (-21),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+39,,2025-01-14,30-308,POR,,BRK,L (-18),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+40,,2025-01-16,30-310,POR,,LAC,L (-29),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+41,30,2025-01-18,30-312,POR,,HOU,L (-22),1,24:59,2,6,.333,1,3,.333,2,2,1.000,1,3,4,1,0,2,3,2,7,3.5,-18
+42,31,2025-01-19,30-313,POR,,CHI,W (+11),1,30:02,5,11,.455,2,6,.333,6,6,1.000,0,1,1,0,0,1,2,4,18,9.7,+13
+43,32,2025-01-21,30-315,POR,@,MIA,W (+9),1,34:00,5,14,.357,3,8,.375,5,6,.833,0,2,2,1,0,2,0,3,18,11.3,+12
+44,33,2025-01-23,30-317,POR,@,ORL,W (+22),1,33:45,4,11,.364,2,6,.333,2,2,1.000,0,4,4,4,1,3,1,1,12,11.6,+15
+45,34,2025-01-24,30-318,POR,@,CHO,W (+5),1,33:45,7,18,.389,4,8,.500,4,4,1.000,3,1,4,1,1,0,2,1,22,13.9,+22
+46,35,2025-01-26,30-320,POR,,OKC,L (-10),1,29:10,1,5,.200,0,2,.000,0,0,,0,2,2,3,0,0,0,5,2,-0.4,+8
+47,36,2025-01-28,30-322,POR,,MIL,W (+13),1,15:38,2,4,.500,1,1,1.000,3,4,.750,0,0,0,1,0,0,0,2,8,5.5,+2
+48,,2025-01-30,30-324,POR,,ORL,W (+29),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+49,37,2025-02-01,30-326,POR,,PHO,W (+19),1,32:57,5,10,.500,1,3,.333,9,9,1.000,0,1,1,3,0,2,0,2,20,18.0,+16
+50,38,2025-02-03,30-328,POR,,PHO,W (+2),1,41:23,5,13,.385,3,9,.333,1,2,.500,3,2,5,4,0,0,1,1,14,10.6,-13
+51,39,2025-02-04,30-329,POR,,IND,W (+23),1,31:48,6,14,.429,3,6,.500,5,5,1.000,0,2,2,1,1,0,1,2,20,13.1,+12
+52,40,2025-02-06,30-331,POR,,SAC,W (+6),1,36:56,4,11,.364,2,7,.286,2,2,1.000,0,4,4,2,1,3,0,4,12,10.0,+5
+53,41,2025-02-08,30-333,POR,@,MIN,L (-16),1,37:31,5,15,.333,0,6,.000,4,4,1.000,1,1,2,1,2,1,4,3,14,4.7,-20
+54,,2025-02-10,30-335,POR,@,DEN,L (-29),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+55,,2025-02-12,30-337,POR,@,DEN,L (-11),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+56,42,2025-02-20,30-345,POR,,LAL,L (-8),1,30:25,1,12,.083,1,5,.200,0,2,.000,0,2,2,2,3,1,2,6,3,-4.5,-13
+57,43,2025-02-22,30-347,POR,,CHO,W (+53),1,29:06,3,10,.300,2,6,.333,0,0,,2,7,9,4,4,0,3,0,8,9.5,+27
+58,44,2025-02-24,30-349,POR,@,UTA,W (+2),1,37:48,6,15,.400,5,10,.500,3,4,.750,0,4,4,3,1,1,0,1,20,16.1,+5
+59,45,2025-02-26,30-351,POR,@,WAS,W (+8),1,36:57,4,14,.286,1,7,.143,6,7,.857,1,5,6,1,1,1,2,1,15,8.6,0
+60,,2025-02-28,30-353,POR,@,BRK,W (+19),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+61,,2025-03-02,30-355,POR,@,CLE,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+62,,2025-03-03,30-356,POR,@,PHI,W (+17),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+63,,2025-03-05,30-358,POR,@,BOS,L (-10),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+64,46,2025-03-07,30-360,POR,@,OKC,L (-18),1,23:52,2,10,.200,0,6,.000,0,0,,0,5,5,0,1,0,1,3,4,-1.9,-22
+65,47,2025-03-09,30-362,POR,,DET,L (-7),1,35:32,6,12,.500,6,11,.545,7,7,1.000,0,2,2,1,0,0,2,2,25,17.5,-10

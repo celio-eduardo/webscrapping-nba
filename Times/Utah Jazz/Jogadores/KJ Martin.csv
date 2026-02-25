@@ -1,0 +1,66 @@
+Rk,G,Date,Age,Tm,,Opp,,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
+1,1,2024-10-23,23-291,PHI,,MIL,L (-15),1,15:04,1,3,.333,0,0,,1,2,.500,2,3,5,0,0,0,0,3,3,2.0,-12
+2,2,2024-10-25,23-293,PHI,@,TOR,L (-8),0,24:19,1,1,1.000,0,0,,0,0,,0,3,3,3,1,1,0,4,2,4.8,-3
+3,3,2024-10-27,23-295,PHI,@,IND,W (+4),0,21:35,3,3,1.000,1,1,1.000,1,2,.500,2,1,3,1,1,0,0,4,8,8.5,+8
+4,4,2024-10-30,23-298,PHI,,DET,L (-10),0,22:30,2,4,.500,0,0,,2,2,1.000,0,2,2,0,0,1,0,2,6,4.5,+7
+5,5,2024-11-02,23-301,PHI,,MEM,L (-17),0,20:18,1,2,.500,0,0,,2,2,1.000,0,3,3,1,0,3,0,3,4,5.5,+3
+6,6,2024-11-04,23-303,PHI,@,PHO,L (-2),0,2:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+1
+7,7,2024-11-06,23-305,PHI,@,LAC,L (-12),0,18:27,5,6,.833,0,0,,0,0,,0,4,4,0,1,0,0,1,10,9.6,-1
+8,8,2024-11-08,23-307,PHI,@,LAL,L (-10),0,17:07,4,5,.800,1,1,1.000,2,2,1.000,0,2,2,0,0,1,0,1,11,10.0,-15
+9,,2024-11-10,23-309,PHI,,CHO,W (+2),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+10,,2024-11-12,23-311,PHI,,NYK,L (-12),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+11,9,2024-11-13,23-312,PHI,,CLE,L (-8),0,15:26,0,3,.000,0,2,.000,0,0,,0,1,1,0,0,0,1,4,0,-4.4,+4
+12,10,2024-11-15,23-314,PHI,@,ORL,L (-12),0,1:13,1,1,1.000,0,0,,1,2,.500,0,0,0,0,0,0,0,0,3,2.3,+1
+13,,2024-11-18,23-317,PHI,@,MIA,L (-17),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,11,2024-11-20,23-319,PHI,@,MEM,L (-6),0,5:17,0,0,,0,0,,0,0,,0,0,0,1,0,1,0,2,0,0.6,+13
+15,12,2024-11-22,23-321,PHI,,BRK,W (+15),0,18:22,0,1,.000,0,1,.000,2,2,1.000,1,3,4,1,0,1,1,1,2,2.9,-5
+16,13,2024-11-24,23-323,PHI,,LAC,L (-26),0,26:06,1,3,.333,0,0,,2,2,1.000,2,2,4,3,0,0,1,2,4,4.6,-6
+17,14,2024-11-27,23-326,PHI,,HOU,L (-7),0,22:20,3,6,.500,0,0,,2,2,1.000,1,1,2,1,1,2,0,6,8,6.7,-5
+18,15,2024-11-30,23-329,PHI,@,DET,W (+15),0,27:08,7,8,.875,1,2,.500,4,5,.800,3,3,6,3,0,3,1,3,19,20.8,+7
+19,16,2024-12-03,23-332,PHI,@,CHO,W (+6),1,22:14,3,8,.375,1,3,.333,2,2,1.000,0,2,2,1,1,0,2,3,9,3.7,+6
+20,17,2024-12-04,23-333,PHI,,ORL,L (-4),1,28:54,5,9,.556,0,2,.000,1,1,1.000,2,2,4,0,2,0,1,2,11,8.9,-6
+21,18,2024-12-06,23-335,PHI,,ORL,W (+8),0,31:52,9,10,.900,1,2,.500,1,1,1.000,2,1,3,2,0,0,0,2,20,18.9,+7
+22,19,2024-12-08,23-337,PHI,@,CHI,W (+8),0,18:28,3,3,1.000,0,0,,0,0,,2,1,3,0,0,1,0,3,6,6.3,-6
+23,20,2024-12-13,23-342,PHI,,IND,L (-14),0,23:54,5,7,.714,2,2,1.000,1,2,.500,1,2,3,0,0,0,0,2,13,10.2,+13
+24,21,2024-12-16,23-345,PHI,@,CHO,W (+13),1,21:21,1,2,.500,0,1,.000,0,0,,0,2,2,0,1,0,2,5,2,-1.4,+1
+25,22,2024-12-20,23-349,PHI,,CHO,W (+10),1,28:27,1,2,.500,0,0,,0,0,,1,2,3,0,2,2,1,1,2,4.3,+20
+26,23,2024-12-21,23-350,PHI,@,CLE,L (-27),1,27:07,3,5,.600,1,3,.333,0,0,,1,6,7,1,0,0,2,4,7,4.3,-6
+27,24,2024-12-23,23-352,PHI,,SAS,W (+5),1,19:39,2,7,.286,0,1,.000,0,0,,1,5,6,1,1,0,0,4,4,2.2,+2
+28,,2024-12-25,23-354,PHI,@,BOS,W (+4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+29,,2024-12-28,23-357,PHI,@,UTA,W (+3),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+30,,2024-12-30,23-359,PHI,@,POR,W (+22),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+31,,2025-01-01,23-361,PHI,@,SAC,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+32,,2025-01-02,23-362,PHI,@,GSW,L (-34),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+33,,2025-01-04,23-364,PHI,@,BRK,W (+29),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+34,,2025-01-06,24-000,PHI,,PHO,L (-10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+35,,2025-01-08,24-002,PHI,,WAS,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+36,,2025-01-10,24-004,PHI,,NOP,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+37,,2025-01-12,24-006,PHI,@,ORL,L (-5),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+38,,2025-01-14,24-008,PHI,,OKC,L (-16),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+39,,2025-01-15,24-009,PHI,,NYK,L (-6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+40,,2025-01-18,24-012,PHI,@,IND,L (-13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+41,,2025-01-19,24-013,PHI,@,MIL,L (-14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+42,,2025-01-21,24-015,PHI,@,DEN,L (-35),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+43,,2025-01-24,24-018,PHI,,CLE,W (+3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+44,,2025-01-25,24-019,PHI,@,CHI,W (+12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+45,,2025-01-28,24-022,PHI,,LAL,W (+14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+46,,2025-01-29,24-023,PHI,,SAC,W (+13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+47,,2025-01-31,24-025,PHI,,DEN,L (-3),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+48,,2025-02-02,24-027,PHI,,BOS,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+49,,2025-02-04,24-029,PHI,,DAL,W (+2),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+50,,2025-02-05,24-030,PHI,,MIA,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+51,,2025-02-07,24-032,UTA,@,PHO,L (-8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+52,,2025-02-08,24-033,UTA,@,LAC,L (-20),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+53,,2025-02-10,24-035,UTA,@,LAL,L (-19),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+54,,2025-02-12,24-037,UTA,,LAL,W (+12),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+55,,2025-02-13,24-038,UTA,,LAC,L (-4),Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress,Did Not Dress
+56,25,2025-02-21,24-046,UTA,,OKC,L (-23),0,15:40,1,3,.333,0,2,.000,0,0,,0,0,0,0,1,1,1,1,2,0.6,-18
+57,26,2025-02-22,24-047,UTA,,HOU,W (+9),1,29:14,5,9,.556,1,5,.200,0,2,.000,0,4,4,1,0,0,0,3,11,6.6,+6
+58,27,2025-02-24,24-049,UTA,,POR,L (-2),1,28:23,4,8,.500,0,2,.000,1,1,1.000,0,5,5,2,1,1,1,3,9,7.4,-21
+59,28,2025-02-26,24-051,UTA,,SAC,L (-17),1,33:59,6,10,.600,2,4,.500,2,2,1.000,1,4,5,4,0,0,0,0,16,16.1,+5
+60,29,2025-02-28,24-053,UTA,,MIN,W (+1),0,21:36,5,5,1.000,0,0,,1,2,.500,1,3,4,0,1,1,1,0,11,11.4,-8
+61,30,2025-03-02,24-055,UTA,,NOP,L (-7),1,25:54,2,4,.500,1,2,.500,0,0,,1,1,2,1,1,0,3,3,5,1.5,-9
+62,31,2025-03-03,24-056,UTA,,DET,L (-28),1,17:42,2,2,1.000,0,0,,1,3,.333,1,1,2,0,0,0,1,4,5,2.0,-11
+63,32,2025-03-05,24-058,UTA,@,WAS,L (-3),1,27:37,2,6,.333,1,2,.500,0,0,,1,4,5,1,0,0,0,0,5,4.2,-6
+64,33,2025-03-07,24-060,UTA,@,TOR,L (-9),1,22:11,2,5,.400,0,0,,1,1,1.000,0,3,3,1,0,1,1,3,5,2.4,-15
+65,34,2025-03-09,24-062,UTA,@,PHI,L (-4),1,35:50,5,8,.625,1,2,.500,3,3,1.000,2,5,7,3,0,2,0,5,14,14.8,+5

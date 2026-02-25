@@ -1,0 +1,7 @@
+Rk,G,Date,Age,Tm,,Opp,,GS,MP,TS%,eFG%,ORB%,DRB%,TRB%,AST%,STL%,BLK%,TOV%,USG%,ORtg,DRtg,GmSc,BPM
+1,,2024-10-23,22-227,BRK,@,ATL,L (-4),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+2,1,2024-10-25,22-229,BRK,@,ORL,L (-15),0,2:04,.333,.333,0.0,0.0,0.0,0.0,0.0,0.0,0.0,62.6,66,124,-0.1,-31.2
+3,2,2024-10-27,22-231,BRK,,MIL,W (+13),0,9:46,.000,.000,0.0,23.4,10.9,0.0,0.0,0.0,25.0,17.4,0,108,-2.9,-23.9
+4,3,2024-10-29,22-233,BRK,,DEN,L (-5),0,7:02,.000,.000,0.0,17.5,9.0,0.0,0.0,0.0,0.0,6.4,0,140,-0.8,-17.5
+5,4,2024-10-30,22-234,BRK,@,MEM,W (+13),0,15:51,.500,.500,17.8,39.8,29.4,8.7,3.0,0.0,0.0,11.0,134,98,6.2,3.3
+6,5,2024-11-01,22-236,BRK,,CHI,W (+8),0,8:48,1.000,1.000,0.0,34.8,18.2,25.1,5.4,12.4,0.0,29.6,185,92,12.7,37.7

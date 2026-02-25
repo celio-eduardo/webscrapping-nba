@@ -1,0 +1,65 @@
+Rk,G,Date,Age,Tm,,Opp,,GS,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,GmSc,+/-
+1,1,2024-10-24,24-328,OKC,@,DEN,W (+15),0,1:11,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+2,2,2024-10-26,24-330,OKC,@,CHI,W (+19),0,3:12,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,1,0,0,1,3,3.3,0
+3,3,2024-10-27,24-331,OKC,,ATL,W (+24),0,1:53,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,3.0,+3
+4,4,2024-10-30,24-334,OKC,,SAS,W (+12),0,1:00,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-3
+5,,2024-11-01,24-336,OKC,@,POR,W (+23),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+6,,2024-11-02,24-337,OKC,@,LAC,W (+13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+7,,2024-11-04,24-339,OKC,,ORL,W (+16),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+8,,2024-11-06,24-341,OKC,@,DEN,L (-2),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+9,,2024-11-08,24-343,OKC,,HOU,W (+19),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+10,,2024-11-10,24-345,OKC,,GSW,L (-11),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+11,,2024-11-11,24-346,OKC,,LAC,W (+6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,5,2024-11-13,24-348,OKC,,NOP,W (+18),0,3:17,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,-4
+13,6,2024-11-15,24-350,OKC,,PHO,W (+16),0,4:20,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,1,0,-1.5,-5
+14,,2024-11-17,24-352,OKC,,DAL,L (-2),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,7,2024-11-19,24-354,OKC,@,SAS,L (-6),0,10:31,1,8,.125,1,7,.143,0,0,,1,1,2,0,1,0,0,1,3,-0.6,+6
+16,8,2024-11-20,24-355,OKC,,POR,W (+10),0,1:18,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+17,9,2024-11-25,24-360,OKC,@,SAC,W (+21),0,3:04,0,2,.000,0,2,.000,0,0,,0,1,1,0,0,0,0,0,0,-1.1,0
+18,,2024-11-27,24-362,OKC,@,GSW,W (+4),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+19,,2024-11-29,24-364,OKC,@,LAL,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+20,,2024-12-01,25-000,OKC,@,HOU,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+21,10,2024-12-03,25-002,OKC,,UTA,W (+27),0,4:28,1,4,.250,1,4,.250,0,0,,0,0,0,0,0,0,0,0,3,0.6,+1
+22,11,2024-12-05,25-004,OKC,@,TOR,W (+37),0,5:47,0,1,.000,0,1,.000,0,0,,1,0,1,0,0,0,0,0,0,0.0,+12
+23,,2024-12-07,25-006,OKC,@,NOP,W (+10),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+24,,2024-12-10,25-009,OKC,,DAL,W (+14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+25,,2024-12-14,25-013,OKC,,HOU,W (+15),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+26,,2024-12-19,25-018,OKC,@,ORL,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+27,,2024-12-20,25-019,OKC,@,MIA,W (+7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+28,,2024-12-23,25-022,OKC,,WAS,W (+18),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+29,,2024-12-26,25-025,OKC,@,IND,W (+6),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+30,,2024-12-28,25-027,OKC,@,CHO,W (+12),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+31,,2024-12-29,25-028,OKC,,MEM,W (+24),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+32,,2024-12-31,25-030,OKC,,MIN,W (+8),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+33,,2025-01-02,25-032,OKC,,LAC,W (+18),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+34,,2025-01-03,25-033,OKC,,NYK,W (+10),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+35,,2025-01-05,25-035,OKC,,BOS,W (+13),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+36,,2025-01-08,25-038,OKC,@,CLE,L (-7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+37,,2025-01-10,25-040,OKC,@,NYK,W (+25),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+38,,2025-01-12,25-042,OKC,@,WAS,W (+41),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+39,,2025-01-14,25-044,OKC,@,PHI,W (+16),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+40,12,2025-01-16,25-046,OKC,,CLE,W (+20),0,7:03,0,9,.000,0,8,.000,0,0,,0,0,0,0,0,1,0,0,0,-5.6,-12
+41,13,2025-01-17,25-047,OKC,@,DAL,L (-8),0,0:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+42,14,2025-01-19,25-049,OKC,,BRK,W (+26),0,6:56,0,2,.000,0,1,.000,0,0,,1,1,2,0,0,0,1,2,0,-2.2,-1
+43,15,2025-01-22,25-052,OKC,,UTA,W (+9),0,1:51,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,+4
+44,,2025-01-23,25-053,OKC,,DAL,L (-6),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+45,,2025-01-26,25-056,OKC,@,POR,W (+10),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+46,,2025-01-29,25-059,OKC,@,GSW,L (-7),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+47,16,2025-02-01,25-062,OKC,,SAC,W (+34),0,5:37,0,1,.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-0.7,+1
+48,17,2025-02-03,25-064,OKC,,MIL,W (+29),0,12:00,1,11,.091,0,8,.000,0,0,,0,0,0,0,2,0,0,0,2,-3.3,-12
+49,18,2025-02-05,25-066,OKC,,PHO,W (+31),0,5:41,3,4,.750,1,2,.500,0,0,,0,0,0,0,1,0,0,1,7,6.0,-5
+50,19,2025-02-07,25-068,OKC,,TOR,W (+12),0,1:46,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,-5
+51,20,2025-02-08,25-069,OKC,@,MEM,W (+13),0,0:52,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0.0,0
+52,21,2025-02-10,25-071,OKC,,NOP,W (+36),0,6:12,2,5,.400,1,4,.250,0,0,,0,0,0,0,0,0,0,1,5,1.9,+4
+53,,2025-02-12,25-073,OKC,,MIA,W (+14),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+54,22,2025-02-13,25-074,OKC,@,MIN,L (-15),0,3:46,1,3,.333,0,2,.000,0,0,,0,0,0,0,0,1,0,0,2,1.0,+2
+55,,2025-02-21,25-082,OKC,@,UTA,W (+23),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+56,,2025-02-23,25-084,OKC,@,MIN,W (+7),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+57,,2025-02-24,25-085,OKC,,MIN,L (-3),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+58,,2025-02-26,25-087,OKC,@,BRK,W (+8),Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+59,23,2025-02-28,25-089,OKC,@,ATL,W (+16),0,1:22,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,2.7,+3
+60,,2025-03-02,25-091,OKC,@,SAS,W (+14),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+61,,2025-03-03,25-092,OKC,,HOU,W (+9),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
+62,24,2025-03-05,25-094,OKC,@,MEM,W (+17),0,1:30,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-0.4,-2
+63,25,2025-03-07,25-096,OKC,,POR,W (+18),0,8:06,0,1,.000,0,1,.000,0,0,,0,1,1,0,0,0,0,1,0,-0.8,-7
+64,,2025-03-09,25-098,OKC,,DEN,W (+24),Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive,Inactive
